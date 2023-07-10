@@ -47,6 +47,7 @@ Function reset_transaction digunakan saat user ingin reset seluruh transaksi
 Function display_order bertujuan untuk menampilakan seluruh data yang sudah
 di input dalam bentuk tabel
 
+![flowchart super cashier](/img/displayorder.png)
 
 function check_order bertujuan untuk check tidak ada kesalahan data 
 yang telah di input oleh user
